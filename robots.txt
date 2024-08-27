@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ondomat.github.io/sitemap.html.gz
+Sitemap: https://ondomat.github.io/app/sitemap.html.gz
+Sitemap: https://ondomat.github.io/assets/sitemap.html.gz
+Sitemap: https://ondomat.github.io/css/sitemap.html.gz
+Sitemap: https://ondomat.github.io/includes/sitemap.html.gz
+Sitemap: https://ondomat.github.io/item/sitemap.html.gz
+Sitemap: https://ondomat.github.io/src/sitemap.html.gz
